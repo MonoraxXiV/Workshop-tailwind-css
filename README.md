@@ -14,3 +14,11 @@ You can choose if you want to rework an existing online shop, or create one from
  
 The main goal of this workshop is to create a visually appealing store page.
 
+
+### Useful tools
+**color palettes:**  
+[colorsinspo](https://colorsinspo.com/)  
+[colorspace](https://mycolor.space/)  
+[visme colorschemes](https://visme.co/blog/website-color-schemes/)  
+
+
