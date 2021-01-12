@@ -93,12 +93,17 @@ Looking for inspiration? Maybe give the following links a try.
 **color palettes:**  
 [colorsinspo](https://colorsinspo.com/)  
 [colorspace](https://mycolor.space/)  
-[visme colorschemes](https://visme.co/blog/website-color-schemes/)  
-
+[visme colorschemes](https://visme.co/blog/website-color-schemes/) 
+[Hexcolor random color generator](https://hexcolor.co/random-color)   
+Have a picture, but don't know which colours are in it?  
+ [Hexcolor image to color](https://hexcolor.co/image-to-colors)    
+ 
 **Photos and illustrations**  
 [PikWizard stock photos](https://pikwizard.com/)  
 [free Illustrations](https://freeillustrations.xyz/)  
 [css Icons](https://css.gg/)  
 
 **Fonts**  
-[google fonts](https://fonts.google.com/)  
+[google fonts](https://fonts.google.com/)    
+not sure which font? Try a sentence in: 
+[fontspark](https://fontspark.app/)
