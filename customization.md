@@ -100,7 +100,7 @@ TLDR:
 
 
 ## Adding colors
-![wandersong gif](https://wanderso.ng/img/screens/preview01.gif)  c 
+![wandersong gif](https://wanderso.ng/img/screens/preview01.gif)  
 So you want to add more colors to your project?
 Our theme at the moment looks like this:
 
