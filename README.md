@@ -114,9 +114,17 @@ Have a picture, but don't know which colours are in it?
 **Fonts**  
 [google fonts](https://fonts.google.com/)    
 not sure which font? Try a sentence in: 
-[fontspark](https://fontspark.app/)
+[fontspark](https://fontspark.app/)  
 
+**Extra cheat sheet**
+A more visual cheat sheet
+[Tailwind.css cheat sheet](https://umeshmk.github.io/Tailwindcss-cheatsheet/)
 
-
+**good tool to have but not really for this exercise**  
+For those that really are more for instantly done code.  
+Though I would make sure you understand it first, or else you will get overwhelmed.
+[tailblocks](https://tailblocks.cc/)
 
 ![good luck pikachu](https://media2.giphy.com/media/mqWZoUiub0cyA/giphy.gif)
+
+
