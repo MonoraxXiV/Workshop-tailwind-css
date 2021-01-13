@@ -81,7 +81,10 @@ I suggest taking a look at the [tailwind cheatsheet](https://tailwindcomponents.
 
 
 For those that prefer guides with practical examples I suggest to check out [tailwind css for beginners](https://codingthesmartway.com/tailwind-css-for-absolute-beginners/).  
-            
+
+### installing for other frameworks?
+Check out the following link for guides for other frameworks like vue.js, react, laravel
+[tailwind installation](https://tailwindcss.com/docs/installation)            
 **possible errors**
 
 During installation I got a bug that starts with:
