@@ -85,14 +85,14 @@ Why? Cause we didn't apply the most important rule yet.
  
 ### Do we use fonts/colors inside extend or outside extend?
 
-If you are not satisfied with the amounts of blue that are already present inside tailwind, it's possible that you want to add extra colors of blue.
+If you are not satisfied with the amounts of blue that are already present inside tailwind, it's possible that you want to add extra shades of blue.
 We will explain that in finer details in the next part. 
 
 When making colors that are already in the template such as blue, there is a huge difference if you place it between extend or not.  
 
-As extend implies it extends something. So with blue in mind, it will **add** your colors to already known blue colors.
+As extend implies it extends something. So with blue in mind, it will **add** your shades to already known blue color class.
    
-However if you place it outside extend you will **replace** all of the blue colors, with your one blue.
+However if you place it outside extend you will **replace** all of the blue shades, with your one shade.
 
 TLDR:
 `code inside extend adds`  
