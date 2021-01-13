@@ -35,7 +35,7 @@ Our focus for this section will be on theme:
  ## Adding fonts
  
  To add a font we first need to import a font.
- I used [fontspark]() typed in the name of my shop and found a fitting font.
+ I used [fontspark](https://fontspark.app/) typed in the name of my shop and found a fitting font.
  which I will then import in the header of the html file.
  
  ```
