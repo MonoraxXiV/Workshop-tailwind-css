@@ -19,7 +19,7 @@ The main goal of this workshop is to create a visually appealing store page.
   
 - Think of your store, what is your target? The store's profile, try to aim you design towards it.
 - Colors! Try to use at least 5 colors, taste the rainbow!  
-<img src="https://media3.giphy.com/media/uZclwnfXqjpMk/giphy.gif" alt="bird with lots of colors" width=300>
+<img src="https://media3.giphy.com/media/uZclwnfXqjpMk/giphy.gif" alt="bird with lots of colors" width=300>  
 ## Installing tailwind.css
 
 The first step to installing tailwind.css is to make sure you have node npm installed.
@@ -90,7 +90,10 @@ TypeError: Object.entries(...).flatMap is not a function[![enter image descripti
 TypeError: Object.entries(...).flatMap is not a function
 ```
 
-This means that you should check your node version, if it's below v11.0 you will have to update your node version.
+This means that you should check your node version, if it's below v11.0 you will have to update your node version.  
+## Adding fonts/colors
+To add fonts/colors please refer to:
+[customization](customization.md)
 
 ### Useful tools
 Looking for inspiration? Maybe give the following links a try. 
@@ -98,8 +101,8 @@ Looking for inspiration? Maybe give the following links a try.
 **color palettes:**  
 [colorsinspo](https://colorsinspo.com/)  
 [colorspace](https://mycolor.space/)  
-[visme colorschemes](https://visme.co/blog/website-color-schemes/) 
-[Hexcolor random color generator](https://hexcolor.co/random-color)   
+[visme colorschemes](https://visme.co/blog/website-color-schemes/)   
+[Hexcolor random color generator](https://hexcolor.co/random-colors)   
 Have a picture, but don't know which colours are in it?  
  [Hexcolor image to color](https://hexcolor.co/image-to-colors)    
  
