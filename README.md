@@ -38,14 +38,16 @@ In today's workshop we will go over the full set up, with instructions so you ca
   4. Once the package.json is made we install tailwind using `npm install tailwindcss`.
 5. In your css paste the following code at the top of your file:  
   ```
-  @tailwind base  
-  @tailwind components  
-  @tailwind utilities
+  @tailwind base;  
+  @tailwind components;  
+  @tailwind utilities;
   ```
-6. In your terminal you use `npx tailwindcss init` to create your tailwind.config.js file, in this file you can define and customize your tailwind.  
-   e.g. adding custom colours to your choices.    
-7. Next we will set up an autoprefixer using `npm install postcss-cli autoprefixer`.  
+
+6. Next we will set up an autoprefixer using `npm install postcss-cli autoprefixer`.  
   This should install Postcss, which we will need to configure.
+7. In your terminal you use `npx tailwindcss init` to create your tailwind.config.js file, in this file you can define and customize your tailwind.  
+   e.g. adding custom colours to your choices.     
+
 8. `touch postcss.config.js` In this config file paste the following code:  
   ```
   module.exports = {
