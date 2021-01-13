@@ -16,10 +16,10 @@ You can choose if you want to rework an existing online shop, or create one from
 The main goal of this workshop is to create a visually appealing store page.
 
 ## Challenges
-
--Think of your store, what is your target? The store's profile, try to aim you design towards it.
-- Colors! Try to use at least 5 colors, taste the rainbow!
-![gif of pigeon surrounded by colors](https://media3.giphy.com/media/uZclwnfXqjpMk/giphy.gif)
+  
+- Think of your store, what is your target? The store's profile, try to aim you design towards it.
+- Colors! Try to use at least 5 colors, taste the rainbow!  
+<img src="https://media3.giphy.com/media/uZclwnfXqjpMk/giphy.gif" alt="bird with lots of colors" width=300>
 ## Installing tailwind.css
 
 The first step to installing tailwind.css is to make sure you have node npm installed.
